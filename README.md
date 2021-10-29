@@ -1,2 +1,2 @@
-# Redimencionador_De_Foto
-Reduz uma lista de foto para o formato 3x4
+# Redimencionador_De_Fotos
+- Reduz uma lista de foto para o formato 3x4
